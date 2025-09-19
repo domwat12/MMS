@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Engage;Sinch;;;
+FN:Sinch Engage Sales 
+ORG:Sinch Engage Sales  
+TITLE:Sales
+TEL;TYPE=CELL:+611800155228
+TEL;TYPE=WORK,VOICE:+18667518337
+EMAIL;TYPE=INTERNET:dom.wates@example.com
+ADR;TYPE=WORK:;;1 N Wacker Dr Ste 2500;Chicago;IL;60606;United States
+URL:https://sinch.com
+NOTE: Sinch SMS for Zoho is the best extension
+END:VCARD
